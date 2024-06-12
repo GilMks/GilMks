@@ -4,6 +4,7 @@
 - 🔭 Estudante de Engenharia de Software na UFBRA (2º semestre)
 - 👾 Linguagem que mais estou estudando é JavaScript
 - 🕴️ Atualmente estou aa procura de um estágio
+- 😊 Meu sonho é um dia trabalhar com IA 
   
 ##
 
