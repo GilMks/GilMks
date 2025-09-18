@@ -1,10 +1,9 @@
 ## Prazer!! meu nome é Gil Markos👋
 
 
-- 🔭 Estudante de Engenharia de Software na UFBRA (2º semestre)
-- 👾 Linguagem que mais estou estudando é JavaScript
-- 🕴️ Atualmente estou a procura de um estágio
-- 😊 Meu sonho é um dia trabalhar com AI 
+- 🔭 Estudante de Engenharia de Software na UFBRA (4º semestre)
+- 👾 Java / Javascript / Kotlin
+- 🕴️ Atualmente estou a procura de um estágio/ Vaga Júnior
   
 ##
 
